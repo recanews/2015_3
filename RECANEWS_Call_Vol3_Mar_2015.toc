@@ -1,0 +1,11 @@
+\select@language {spanish}
+\contentsline {section}{Prop\IeC {\'o}sito}{1}{chapter*.1}
+\contentsline {section}{\IeC {\textquestiondown }Qui\IeC {\'e}n puede publicar?}{2}{section*.2}
+\contentsline {section}{\IeC {\textquestiondown }Qu\IeC {\'e} se puede publicar?}{2}{section*.3}
+\contentsline {section}{\IeC {\textquestiondown }Cu\IeC {\'a}l es la periodicidad de RECANEWS?}{2}{section*.4}
+\contentsline {section}{\IeC {\textquestiondown }C\IeC {\'o}mo publicar en RECANEWS?}{2}{section*.5}
+\contentsline {section}{\IeC {\textquestiondown }Qui\IeC {\'e}n recibe RECANEWS?}{2}{section*.6}
+\contentsline {section}{Repositorio de RECANEWS}{2}{section*.7}
+\contentsline {section}{Contacto del RECA}{2}{section*.8}
+\contentsline {section}{Representantes de RECA en las regiones}{2}{section*.9}
+\contentsline {section}{Editor RECANEWS}{3}{section*.10}
